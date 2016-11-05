@@ -1,0 +1,10 @@
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\bin\Debug\tptNetstat.exe.config
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\bin\Debug\tptNetstat.exe
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\bin\Debug\tptNetstat.pdb
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.csprojResolveAssemblyReference.cache
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.Form1.resources
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.Properties.Resources.resources
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.csproj.GenerateResource.Cache
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.exe
+c:\users\josh\documents\visual studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.pdb
+C:\Users\Josh\Documents\Visual Studio 2015\Projects\tptNetstat\tptNetstat\obj\Debug\tptNetstat.about.resources
